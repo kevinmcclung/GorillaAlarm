@@ -19,7 +19,7 @@ import android.widget.Toast;
 //Siamang photo by Joshua J. Cotten on Unsplash
 //Gorilla sound by Sound Bible (Public Domain)
 //Chimpanzee sound by Mike Koenig on Sound Bible (Attribution 3.0)
-//No orangutan sound yet
+//Orangutan sound to be determined
 //Gibbon sounds by Daniel Simon on Sound Bible (Attribution 3.0)
 
 enum Ape {
