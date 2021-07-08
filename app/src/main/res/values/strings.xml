@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gorilla Alarm</string>
+    <string name="start_button">START</string>
+    <string name="gorilla_credits">Gorilla photo by Josh Durham on Unsplash. &#xA;Gorilla sound by Sound Bible (Public Domain).</string>
+    <string name="chimpanzee_credits">Chimpanzee photo by Janosch Diggelmann on Unsplash. &#xA;Chimpanzee sound by Mike Koenig on Sound Bible (Attribution 3.0).</string>
+    <string name="orangutan_credits">Orangutan photo by Dušan veverkolog on Unsplash. &#xA;Gorilla sound by Sound Bible (Public Domain).</string>
+    <string name="gibbon_credits">Siamang photo by Joshua J. Cotten on Unsplash. &#xA;Gibbon sounds by Daniel Simon on Sound Bible (Attribution 3.0).</string>
+    <string name="stop_button">STOP</string>
+    <string name="image_content_description">Click image to switch between gorilla, chimpanzee, orangutan and gibbon.</string>
+    <string name="time_left">Time Left </string>
+    <string name="seek_bar_content_description">Move bar right to increase time up to 20 minutes or left to decrease it down to 0 minutes; default time is one minute</string>
+    <string name="button_content_description">Push button to start or stop timer</string>
+    <string name="text_view_content_description">Remaining Time: </string>
+    <string name="zero_time">00:00</string>
+    <string name="warning">WARNING: TURN VOLUME DOWN. APE SOUNDS ARE LOUD.</string>
+</resources>
